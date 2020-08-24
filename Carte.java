@@ -1,9 +1,6 @@
 package cartes;
 
 public class Carte implements Comparable<Carte>{
-	// NOTE : commencez par modifer ce code pour utiliser un enum afn de représenter
-	// la
-	// couleur.
 	public static final String PIQUE = "pique";
 	public static final String TREFLE = "trefle";
 	public static final String COEUR = "coeur";
